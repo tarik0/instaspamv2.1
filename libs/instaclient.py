@@ -142,7 +142,6 @@ class InstaClient:
             except:
                 PrintError("Giriş yapılamadı!", self.user)
 
-        print( res.cookies.get_dict(), res.status_code)
         pass
     
     def Spam(self,userid, username, reasonid):
