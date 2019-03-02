@@ -11,7 +11,7 @@ https://www.gnu.org/licenses/quick-guide-gplv3.html
 
 __author__ = "Hichigo TurkHackTeam"
 __license__ = "GPLv3"
-__version__ = "1.5.0"
+__version__ = "2.1.0"
 __status__ = "Geliştiriliyor"
 
 
