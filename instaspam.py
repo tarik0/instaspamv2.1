@@ -93,11 +93,6 @@ if __name__ == "__main__":
     username = GetInput("Şikayet etmek istediğiniz hesap kullanıcı adı:")
     userid = GetInput("Şikayet etmek istediğiniz hesap numarası:")
     useproxy = GetInput("Proxy kullanmak ister misin? [Evet/Hayır]:")
-    usemultithread = GetInput("Multithreading kullanmak ister misin? [Evet/Hayır] (Çok fazla kullanıcınız varsa veya bilgisayarınız yavaşsa bu özelliği kullanmayın!):")
-
-    PrintChoices()
-    reasonid = GetInput("Lütfen üstteki şikayet nedenlerinden birini seçin (örn: spam için 1):")
-
     if (useproxy == "Evet"):
         useproxy = True
     elif (useproxy == "Hayır"):
@@ -105,7 +100,8 @@ if __name__ == "__main__":
     else:
         PrintFatalError("Lütfen sadece 'Evet' yada 'Hayır' girin!")
         exit(0)
-
+    usemultithread = GetInput("Multithreading kullanmak ister misin? [Evet/Hayır] (Çok fazla kullanıcınız varsa veya bilgisayarınız yavaşsa bu özelliği kullanmayın!):")
+    
     if (usemultithread == "Evet"):
         usemultithread = True
     elif (usemultithread == "Hayır"):
@@ -113,6 +109,11 @@ if __name__ == "__main__":
     else:
         PrintFatalError("Lütfen sadece 'Evet' yada 'Hayır' girin!")
         exit(0)
+    
+    PrintChoices()
+    reasonid = GetInput("Lütfen üstteki şikayet nedenlerinden birini seçin (örn: spam için 1):")
+
+    
     
     
     print("")
