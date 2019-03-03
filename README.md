@@ -3,10 +3,14 @@
 ## 🔥 Nedir?
 Belirlediğiniz şikayet nedeni ile bir hesabp için instagrama şikayet isteği atmanızı sağlayan bir programdır.
 
+**Programın videolarını çektiği için Akif kardeşime teşekkür ediyorum!**
+
 ![Screenshot](https://github.com/tarik0/instaspamv2/blob/master/ss.png)
 
  ## 💻 Kurulum
- Kurulum videoları ve anlatımları yakında gelecektir!
+ 
+ [![Windows Kurulum](https://img.youtube.com/vi/XU6nJ__anaY/0.jpg)](https://www.youtube.com/watch?v=XU6nJ__anaY)
+ 
  
  ## 🤔 Sıkça Sorulan Sorular
 
@@ -38,6 +42,10 @@ Forum dışındaki iletişim bilgilerim;
 
 **Telegram:** @Hichigo06 
 **Instagram:** @hichigo.exe
+
+Kurulum hakkında sorularınız için;
+**akovskiniz Instagram:** @akifdora0
+**akovskiniz YouTube:**  [![Akif Dora](https://www.youtube.com/channel/UCxaifS9Pam5QDp1NE2SPXqA)
 
 ##  ⚖️ Lisans
 
