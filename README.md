@@ -44,7 +44,7 @@ Forum dışındaki iletişim bilgilerim;
 **Instagram:** @hichigo.exe
 
 **akovskiniz Instagram:** @akifdora0
-**akovskiniz YouTube:**  [![Akif Dora](https://www.youtube.com/channel/UCxaifS9Pam5QDp1NE2SPXqA)
+**akovskiniz YouTube:**  [![Akif Dora](https://www.youtube.com/channel/UCxaifS9Pam5QDp1NE2SPXqA)]
 
 ##  ⚖️ Lisans
 
