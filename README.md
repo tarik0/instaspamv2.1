@@ -43,7 +43,6 @@ Forum dışındaki iletişim bilgilerim;
 **Telegram:** @Hichigo06 
 **Instagram:** @hichigo.exe
 
-Kurulum hakkında sorularınız için;
 **akovskiniz Instagram:** @akifdora0
 **akovskiniz YouTube:**  [![Akif Dora](https://www.youtube.com/channel/UCxaifS9Pam5QDp1NE2SPXqA)
 
